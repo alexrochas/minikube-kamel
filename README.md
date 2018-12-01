@@ -98,7 +98,7 @@ could lead to a very fast design with high decoupled systems.
 
 Truth is, the project is in a very early stage, now is the time to contribute.
 
-## Roadmp
+## Roadmap
 
 * write integrations using more components and languages
 
